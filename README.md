@@ -19,6 +19,8 @@
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
+
+ [![Wakatime](https://img.shields.io/badge/dynamic/json?label=Wakatime&query=%24.data.grand_total.text&url=https://wakatime.com/api/v1/users/current/stats/last_7_days&color=blue&logo=wakatime&style=flat-square)](https://wakatime.com)
  
 <div align="center"> 
   <a href="mailto:charakasharishka@gmail.com">
