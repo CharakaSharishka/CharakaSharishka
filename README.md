@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CharakaSharishka.CharakaSharishka" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charaka+Sharishka!+🇱🇰;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charaka+Sharishka!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri Lanka 🇱🇰 </h3>
+<h3 align="center">A passionate software developer from Sri Lanka &#127472;&#127477;</h3>
 
 <br/>
 
