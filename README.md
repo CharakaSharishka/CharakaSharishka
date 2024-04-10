@@ -1,4 +1,4 @@
-<img align="Righ" src="https://visitor-badge.laobi.icu/badge?page_id=CharakaSharishka.visitor-badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CharakaSharishka.CharakaSharishka" />
 
 ### Hi there 👋
 
