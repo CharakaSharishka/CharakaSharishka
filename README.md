@@ -20,7 +20,6 @@
 
  </div>
 
- [![Wakatime](https://img.shields.io/badge/dynamic/json?label=Wakatime&query=%24.data.grand_total.text&url=https://wakatime.com/api/v1/users/current/stats/last_7_days&color=blue&logo=wakatime&style=flat-square)](https://wakatime.com)
  
 <div align="center"> 
   <a href="mailto:charakasharishka@gmail.com">
@@ -63,6 +62,10 @@
   <img width=390 src="https://github-readme-stats-CharakaSharishka.vercel.app/api?username=CharakaSharishka&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-CharakaSharishka.vercel.app/api/top-langs/?username=CharakaSharishka&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <br/>
+    <br/>
+    
+[![wakatime](https://wakatime.com/badge/user/018ec7f1-db18-4413-af5a-4bd71ddeb63a/project/018eca11-51d6-49be-9e39-280694d18a66.svg)](https://wakatime.com/badge/user/018ec7f1-db18-4413-af5a-4bd71ddeb63a/project/018eca11-51d6-49be-9e39-280694d18a66)
 </div>
 
 <br/><br/>
