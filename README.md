@@ -1,22 +1,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CharakaSharishka.CharakaSharishka" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charaka+Sharishka!;https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charaka+Sharishka!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri Lanka SL</h3>
+<h3 align="center">A passionate software developer from Sri Lanka 🇱🇰</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently student at **PIBT Campus**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Flutter, Angular, Springboot, MongoDB**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/CharakaSharishka/CharakaSharishka/issues)**
+💬 Ask me about **HTML, JavaScript, CSS, C#, Python... or anything [here](https://github.com/CharakaSharishka/CharakaSharishka/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The first computer bug was an actual insect! In 1947, a moth got trapped inside the Harvard Mark II computer, causing a malfunction. Engineers traced the problem to the moth, and ever since, "debugging" has been a common term in computer programming**
 
  </div>
 
