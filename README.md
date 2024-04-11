@@ -4,13 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charaka+Sharishka!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">👨‍💻 Aspiring Programmer | 🌱 Learning Every Day | 💡 Building Projects to Level Up</h3>
+
+<h6 align="center">🚀 Self-taught, Aspiring Full Stack Developer building projects to gain experience and equipped with research skills. Join me on this journey of growth!🚀</h6>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently student at **PIBT Campus**
+ 🔭 I’m currently student at **PIBT Campus SL**
  
  🌱 I’m currently learning **Docker, Flutter, Angular, Springboot, MongoDB**
 
@@ -61,7 +63,7 @@
   <img width=390 src="https://github-readme-streak-stats-CharakaSharishka.vercel.app/?user=CharakaSharishka7&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-CharakaSharishka.vercel.app/api?username=CharakaSharishka&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-CharakaSharishka.vercel.app/api/top-langs/?username=CharakaSharishka&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-CharakaSharishka.vercel.app/api/top-langs/?username=CharakaSharishka&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     <br/>
     <br/>
     
