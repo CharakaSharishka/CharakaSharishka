@@ -65,6 +65,8 @@
   <img width=390 src="https://github-readme-stats-git-main-charaka-sharishkas-projects.vercel.app/api?username=CharakaSharishka&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&exclude_repo=github-readme-stats" alt="readme stats" />
     <br/>
     <img width=325 align="center" src="https://github-readme-stats-git-main-charaka-sharishkas-projects.vercel.app/api/top-langs/?username=CharakaSharishka&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <br/><br/>
+    <img width=500 align="center" src="https://wakatime.com/share/@CharakaSharishka/40318fb9-563f-456e-b17f-f955f5edb282.svg"/>
 
 <br/><br/>
     
