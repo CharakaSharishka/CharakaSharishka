@@ -69,8 +69,7 @@
     <img width=500 align="center" src="https://wakatime.com/share/@CharakaSharishka/40318fb9-563f-456e-b17f-f955f5edb282.svg"/>
 
 <br/><br/>
-    
-[![wakatime](https://wakatime.com/badge/user/018ec7f1-db18-4413-af5a-4bd71ddeb63a/project/018eca11-51d6-49be-9e39-280694d18a66.svg)](https://wakatime.com/badge/user/018ec7f1-db18-4413-af5a-4bd71ddeb63a/project/018eca11-51d6-49be-9e39-280694d18a66)
+[![wakatime](https://wakatime.com/badge/user/018ec7f1-db18-4413-af5a-4bd71ddeb63a.svg)](https://wakatime.com/@018ec7f1-db18-4413-af5a-4bd71ddeb63a)
 </div>
 
 <br/><br/>
