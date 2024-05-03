@@ -2,6 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charaka+Sharishka!;" />
+    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="130">
 </h1>
 
 <h3 align="center">👨‍💻 Aspiring Programmer | 🌱 Learning Every Day | 💡 Building Projects to Level Up</h3>
