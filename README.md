@@ -50,10 +50,8 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-    
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
@@ -72,10 +70,9 @@
     <br/><br/>
     
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CharakaSharishka&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+<br/><br/>
 [![wakatime](https://wakatime.com/badge/user/018ec7f1-db18-4413-af5a-4bd71ddeb63a.svg)](https://wakatime.com/@018ec7f1-db18-4413-af5a-4bd71ddeb63a)
 </div>
-<br/>
 
 <hr/>
 <br/>
