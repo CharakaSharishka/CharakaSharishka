@@ -60,27 +60,25 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-    <img width=390 src="https://streak-stats.demolab.com?user=Charaka%20Sharishka&count_private=true&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="streak stats"/>
-    <br/>
-  <img width=390 src="https://github-readme-stats-git-main-charaka-sharishkas-projects.vercel.app/api?username=CharakaSharishka&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&exclude_repo=github-readme-stats" alt="readme stats" />
-    <br/>
-    <img width=325 align="center" src="https://github-readme-stats-git-main-charaka-sharishkas-projects.vercel.app/api/top-langs/?username=CharakaSharishka&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    <br/><br/>
-    <img width=500 align="center" src="https://wakatime.com/share/@CharakaSharishka/40318fb9-563f-456e-b17f-f955f5edb282.svg"/>
 
-<br/><br/>
+<div align=center>
+    <img width=325 theme=react align="center" src="https://wakatime.com/share/@CharakaSharishka/96e12056-39c0-4a9c-911b-1ab797cd21f9.svg"/>
+    <br/><br/><br/>
+    <img width=390 src="https://streak-stats.demolab.com?user=Charaka%20Sharishka&count_private=true&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="streak stats"/>
+    <br/><br/>
+  <img width=390 src="https://github-readme-stats-three-chi-32.vercel.app/api?username=CharakaSharishka&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&exclude_repo=github-readme-stats" alt="readme stats" />
+    <br/><br/>
+    <img width=325 align="center" src="https://github-readme-stats-three-chi-32.vercel.app/api/top-langs/?username=CharakaSharishka&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
+    <br/><br/>
+    
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CharakaSharishka&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![wakatime](https://wakatime.com/badge/user/018ec7f1-db18-4413-af5a-4bd71ddeb63a.svg)](https://wakatime.com/@018ec7f1-db18-4413-af5a-4bd71ddeb63a)
 </div>
-
-<br/><br/>
-
-<hr/>
-
 <br/>
 
+<hr/>
+<br/>
 <div align="center">
 <a href='https://ko-fi.com/charakasharishka' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
-
-<br/>
