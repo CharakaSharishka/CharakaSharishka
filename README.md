@@ -15,7 +15,7 @@
     
  📍 I’m currently live in **Sri Lanka 🇱🇰**
  
- 🔭 I’m currently student at **<a href="https://www.gre.ac.uk">University of Greenwich<a/> and <a href="https://pibtsl.com">IBT Campus SL<a/>**
+ 🔭 I’m currently student at **<a href="https://www.gre.ac.uk">University of Greenwich<a/> and <a href="https://pibtsl.com">PIBT Campus SL<a/>**
  
  🌱 I’m currently learning **Docker, Flutter, Angular, Springboot, MongoDB**
 
